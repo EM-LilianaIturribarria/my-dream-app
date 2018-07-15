@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-Section 3, Lecture 49
+Section 6, Lecture 77
 
 ## Development server
 
